@@ -1,16 +1,19 @@
-## Hi there 👋
+# Vsevolod Rakita
+## About Me
+I am a PhD holder in Mathematics from the Technion - Israel Institute of Technology, specializing in Combinatorics and Graph Theory. My academic journey has been fueled by a passion for exploring complex mathematical structures and theories. 
 
-<!--
-**VsevolodRakita/VsevolodRakita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Although I am new to the industry, my research has involved:
 
-Here are some ideas to get you started:
+Theoretical Contributions: My thesis explored the extremal, logical, and probabilistic properties of two large classes of graph polynomials: generating polynomials and Harary polynomials.
+Teaching: I've honed my communication skills by teaching undergraduate courses in Calculus, Abstract Algebra, and Combinatorial Algorithms.
+Academic Publications: Authored 5 papers on graph polynomials, which can be found <a href="https://scholar.google.com/citations?hl=en&user=QkWGw3IAAAAJ"> here</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Programming Languages: Python, C, C++, Rust, LaTeX.
+Data Analysis: Proficiency in Python data analysis packages, including numpy, pandas, polars, scikit-learn, matplotlib, and pytorch.
+
+Goals
+I'm eager to apply my theoretical knowledge in practical settings, contribute to open-source projects, and collaborate on innovative mathematical applications. 
+
+Interests
+Beyond academia, I am interested in machine learning, quantetative finance, and data science.

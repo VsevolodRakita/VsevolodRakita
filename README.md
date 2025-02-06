@@ -20,8 +20,8 @@ A C to x86 assembly compiler, implemented in rust.
 ### Derivative Pricer
 A Black-Scholes derivative pricer for vanilla and exotic options, implemented in rust.
 
-##Goals
+## Goals
 I'm eager to apply my theoretical knowledge in practical settings, contribute to open-source projects, and collaborate on innovative mathematical applications. 
 
-##Interests
+## Interests
 Beyond academia, I am interested in machine learning, quantetative finance, and data science.
